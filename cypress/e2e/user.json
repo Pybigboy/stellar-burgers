@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "accessToken": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2OWJmMzBhMTE5ZDQ1MDAxYjRmYTU0ZSIsImlhdCI6MTcyMzE0MjAzNywiZXhwIjoxNzIzMTQzMjM3fQ.bTqTN1brUAetPe3Fqj3bAqoOwd0kKJ6ZTWR_AhWJudY",
+  "refreshToken": "37751c4e1a7017d7537e15a3ea5fc293d85c52e6811aa0ca00a72780f67823423f419cc2aa73159c",
+  "user": {
+    "email": "yn-pvlv@yandex.ru",
+    "name": "yana-pavlova"
+  }
+}
